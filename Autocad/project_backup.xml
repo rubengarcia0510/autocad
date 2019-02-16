@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding= "UTF-8" ?>
+<project xmlns="http://handyuml.com/project">
+   <uuid>3301affa-6758-43b2-9363-4163be7597fa</uuid>
+   <name>Autocad</name>
+   <description></description>
+   <activeDiagramName>Diagram 1</activeDiagramName>
+   <author>
+      <contactInfo></contactInfo>
+      <name></name>
+      <organization></organization>
+   </author>
+   <created>2019-02-16 08:10:09</created>
+   <updated>2019-02-16 08:10:59</updated>
+   <version>1</version>
+   <customColors></customColors>
+   <diagrams>
+      <diagram>
+         <name>Diagram 1</name>
+         <type>CLASS</type>
+         <locked>false</locked>
+         <showGrid>true</showGrid>
+         <snapToGrid>true</snapToGrid>
+         <gridSpacingPixels>20</gridSpacingPixels>
+         <gridColor>#FF000000</gridColor>
+         <backgroundColor>#FF7BAEBC</backgroundColor>
+         <drawShadows>true</drawShadows>
+         <showPackages>false</showPackages>
+         <viewport>
+            <positionX>0.0</positionX>
+            <positionY>0.0</positionY>
+         </viewport>
+         <views/>
+         <defaultDrawColor>#FF000000</defaultDrawColor>
+         <defaultFillColor>#FFFFFF99</defaultFillColor>
+         <defaultTextColor>#FF000000</defaultTextColor>
+         <scale>1.0</scale>
+         <shadeObjects>true</shadeObjects>
+         <usageHits>0</usageHits>
+      </diagram>
+   </diagrams>
+   <model/>
+</project>
